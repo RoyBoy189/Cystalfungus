@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Furrydisease.Graphics
+namespace Fungalinfection.Graphics
 {
     class Class1
     {

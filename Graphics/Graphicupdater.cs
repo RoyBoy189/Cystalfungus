@@ -8,7 +8,7 @@ using UnityEngine;
 using Verse;
 using Color = UnityEngine.Color;
 
-namespace Pawnmorph.GraphicSys
+namespace Fungalinfection.GraphicSys
 {
     /// <summary>
     /// Thing comp to update the graphics of a pawn as they gain/lose mutations. <br/>
